@@ -12,7 +12,7 @@ const SVG_W = BOARD_W + 2;
 const TEXT_H = 56;
 const SVG_H = TEXT_H + 10 + BOARD_H + 2;
 const BOARD_Y = TEXT_H + 10;
-const TOTAL = 22; // loop seconds
+const TOTAL = 14; // loop seconds
 
 const LEVEL_COLORS = ['#161b22','#0e4429','#006d32','#26a641','#39d353'];
 const NUM_COLORS   = ['','#58a6ff','#3fb950','#f85149','#d2a8ff','#ffa657','#76e3ea','#e6edf3','#7d8590'];
