@@ -120,5 +120,5 @@ ${rects}
 ${overlays}
 </svg>`;
 
-fs.writeFileSync('E:/Travel/minesweeper.svg', svg);
+fs.writeFileSync('minesweeper.svg', svg);
 console.log('done, size:', (svg.length/1024).toFixed(1), 'KB');
